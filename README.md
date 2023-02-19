@@ -1,1 +1,1 @@
-# Merge-confict-practice
+# Merge-conflict-practice
